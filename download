@@ -1,0 +1,24 @@
+# Local IDE state and build output
+.vs/
+.vscode/
+.idea/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+# Signing assets and local secrets
+*.p12
+*.pfx
+*.mobileprovision
+*.keystore
+*.jks
+*.key
+*.pem
+.env
+.env.*
+appsettings.Development.json

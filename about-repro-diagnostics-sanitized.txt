@@ -1,0 +1,73 @@
+2026-11-02T08:42:32.6911130+00:00 #1 Application constructed
+2026-11-02T08:42:33.8413450+00:00 #2 Application window created
+2026-11-02T08:42:44.4569730+00:00 #3 AboutPage constructed
+2026-11-02T08:42:44.4680000+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-02T08:42:44.5717960+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-02T08:42:44.7064540+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-02T08:42:44.7414470+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-02T08:42:44.7582340+00:00 #8 HTML assigned to WebView once
+2026-11-02T08:42:44.8775930+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-02T08:42:44.8896230+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-02T08:42:44.9717940+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-02T17:06:08.1704620+00:00 #1 Application constructed
+2026-11-02T17:06:08.3009850+00:00 #2 Application window created
+2026-11-02T17:06:10.6291690+00:00 #3 AboutPage constructed
+2026-11-02T17:06:10.6422630+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-02T17:06:10.8271640+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-02T17:06:10.9492370+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-02T17:06:11.0314880+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-02T17:06:11.0447950+00:00 #8 HTML assigned to WebView once
+2026-11-02T17:06:11.4354710+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-02T17:06:11.4545910+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-02T17:06:11.5642040+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-02T17:06:41.2286020+00:00 #12 AboutPage OnDisappearing: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-02T17:06:41.7825890+00:00 #13 WebView HandlerChanged: handler=null, platformView=null, size=296x293, visible=True, loaded=False
+2026-11-03T02:34:17.3580100+00:00 #1 Application constructed
+2026-11-03T02:34:17.4328970+00:00 #2 Application window created
+2026-11-03T02:34:23.8410060+00:00 #3 AboutPage constructed
+2026-11-03T02:34:23.8554920+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-03T02:34:23.9450350+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-03T02:34:24.0397000+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-03T02:34:24.1113730+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-03T02:34:24.1206270+00:00 #8 HTML assigned to WebView once
+2026-11-03T02:34:24.2049420+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-03T02:34:24.2127180+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-03T02:34:24.2697740+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-03T02:40:18.8991760+00:00 #1 Application constructed
+2026-11-03T02:40:19.0313880+00:00 #2 Application window created
+2026-11-03T02:40:28.0535720+00:00 #3 AboutPage constructed
+2026-11-03T02:40:28.0669210+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-03T02:40:28.2645240+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-03T02:40:28.3633260+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-03T02:40:28.4403790+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-03T02:40:28.4558840+00:00 #8 HTML assigned to WebView once
+2026-11-03T02:40:28.9112890+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-03T02:40:28.9340820+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-03T02:40:29.0232400+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-03T07:49:41.7955470+00:00 #1 Application constructed
+2026-11-03T07:49:41.8810320+00:00 #2 Application window created
+2026-11-03T09:03:29.5642130+00:00 #3 AboutPage constructed
+2026-11-03T09:03:29.5860210+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-03T09:03:29.7345270+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-03T09:03:29.8830870+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-03T09:03:29.9658620+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-03T09:03:29.9802150+00:00 #8 HTML assigned to WebView once
+2026-11-03T09:03:30.2674480+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-03T09:03:30.2913810+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-03T09:03:30.3596590+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-05T16:36:30.4763390+00:00 #1 Application constructed
+2026-11-05T16:36:30.5675960+00:00 #2 Application window created
+2026-11-05T16:51:13.5802460+00:00 #3 AboutPage constructed
+2026-11-05T16:51:13.5967980+00:00 #4 AboutPage OnAppearing #1: handler=null, platformView=null, size=-1x-1, visible=True, loaded=False
+2026-11-05T16:51:13.7300890+00:00 #5 WebView HandlerChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=-1x-1, visible=True, loaded=False
+2026-11-05T16:51:13.8567820+00:00 #6 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x276.3, visible=True, loaded=True
+2026-11-05T16:51:13.9449440+00:00 #7 HTML loaded from bundle: 304098 bytes
+2026-11-05T16:51:13.9547980+00:00 #8 HTML assigned to WebView once
+2026-11-05T16:51:14.0421040+00:00 #9 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-05T16:51:14.0578230+00:00 #10 WebView SizeChanged: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-05T16:51:14.0975670+00:00 #11 WebView Navigated: Success, URL=file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-06T08:53:20.1108400+00:00 #12 WebView Navigating: file:///private/var/containers/Bundle/Application/[APP-CONTAINER-ID]/MauiAboutBlankRepro.app/
+2026-11-06T08:53:20.3812200+00:00 #13 WebView Navigated: Failure, URL=; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-06T08:53:23.2416880+00:00 #14 USER REPORTED BLANK SCREEN: appearances=1; handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True; pageVisible=True
+2026-11-06T08:55:19.8178650+00:00 #15 User requested diagnostic export: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
+2026-11-06T08:55:43.3998510+00:00 #16 User requested diagnostic export: handler=Microsoft.Maui.Handlers.WebViewHandler, platformView=Microsoft.Maui.Platform.MauiWKWebView, size=296x293, visible=True, loaded=True
